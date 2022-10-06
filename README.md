@@ -14,3 +14,8 @@ Under PATH , click Edit and add NEW:
 C:\Windows\System32
 Save and exit.
 All Credit to : Original solution posted under @BAIZ1D https://github.com/ContinuumIO/anaconda-issues/issues/12735
+
+
+# Tutorials
+- Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka
+https://www.youtube.com/watch?v=GwIo3gDZCVQ&t=6969s
